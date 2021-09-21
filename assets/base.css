@@ -2120,7 +2120,6 @@ details[open] > .header__icon--menu .icon-hamburger {
   margin-left: -1.2rem;
   grid-area: navigation;
   display: none;
-  text-align: center;
 }
 
 .header--top-center .header__inline-menu,
@@ -2143,6 +2142,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 
   .header--middle-left .header__inline-menu {
     margin-left: 0;
+    text-align: center;
   }
 }
 
