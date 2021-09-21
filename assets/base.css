@@ -2142,7 +2142,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 
   .header--middle-left .header__inline-menu {
     margin-left: 0;
-    text-align: center;
+    text-align: center !important;
   }
 }
 
