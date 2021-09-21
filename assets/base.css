@@ -1857,8 +1857,8 @@ input[type="checkbox"] {
 
   .header--middle-left .header__inline-menu {
     min-width: 45rem;
+    text-align: center;
   }
-
   .header:not(.header--middle-left) .header__inline-menu {
     margin-top: 1.05rem;
   }
